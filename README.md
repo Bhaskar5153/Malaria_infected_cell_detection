@@ -6,3 +6,5 @@ We have ~ 12500 images for training and testing the data set.
 CNN deep learning model has been used to train the data set.
 The model is currently running at 94%.
 
+
+this is for testing purpose only
